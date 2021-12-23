@@ -9,7 +9,8 @@
 - 블로그 : <https://goodjeon.github.io> 
 - 이메일 : <513ehdwnsl@gmail.com>
 
-## 언어(Language)
+## 언어(Language) 🗣️
 
 - Python
+- SQL
 
