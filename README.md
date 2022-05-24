@@ -10,4 +10,4 @@
 - 이메일 : <513ehdwnsl@gmail.com>
 
 ## Stack
-<img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-20c997?style=flat-square&logo=CSS3&logoColor=white"/>
