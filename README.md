@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoodjeon&count_bg=%236829CD&title_bg=%236829CD&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=GoodJeon%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=GoodJeon&fontSize=90)
 
 ## 📔 Blog : <https://goodjeon.github.io>
 ## 📬 E-mail : <513ehdwnsl@gmail.com>
