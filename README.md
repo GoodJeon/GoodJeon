@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoodjeon&count_bg=%2327A435&title_bg=%2327A435&icon=github.svg&icon_color=%23E3DF0D&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoodjeon&count_bg=%236829CD&title_bg=%236829CD&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📔 Blog : <https://goodjeon.github.io>
 ## 📬 E-mail : <513ehdwnsl@gmail.com>
