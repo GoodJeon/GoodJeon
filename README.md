@@ -2,21 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=GoodJeon&fontSize=90)
 
-## Blog  <a href="https://goodjeon.github.io" target="_blank"><img src="https://img.shields.io/badge/Jekyll-ffffff?style=flat-square&logo=Jekyll&logoColor=black"/></a>
-## E-mail <a href="513ehdwnsl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=Gmail&logoColor=black"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodjeon&show_icons=true&theme=swift)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodjeon&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-<a href="https://goodjeon.github.io/">
-    <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/>
-</a>
--->
-
 ## Stack
 <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Swift-ffffff?style=flat-square&logo=swift&logoColor=black">
 
@@ -29,5 +14,24 @@
 <img src="https://img.shields.io/badge/Hadoop-ffffff?style=flat-square&logo=apache hadoop&logoColor=black"><img src="https://img.shields.io/badge/PySpark-ffffff?style=flat-square&logo=apache spark&logoColor=black"><img src="https://img.shields.io/badge/Ubuntu-ffffff?style=flat-square&logo=ubuntu&logoColor=black">
 
 <img src="https://img.shields.io/badge/ElasticSearch-ffffff?style=flat-square&logo=elasticsearch&logoColor=black"><img src="https://img.shields.io/badge/Logstash-ffffff?style=flat-square&logo=Logstash&logoColor=black">
+
+
+
+## Blog  
+<a href="https://goodjeon.github.io" target="_blank"><img src="https://img.shields.io/badge/Jekyll-ffffff?style=flat-square&logo=Jekyll&logoColor=black"/></a>
+## E-mail 
+<a href="513ehdwnsl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=Gmail&logoColor=black"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodjeon&show_icons=true&theme=swift)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodjeon&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!--
+<a href="https://goodjeon.github.io/">
+    <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/>
+</a>
+-->
 
 
