@@ -20,9 +20,9 @@
 
 
 ## Blog  
-<a href="https://goodjeon.github.io" target="_blank"><img src="https://img.shields.io/badge/Jekyll-ffffff?style=flat-square&logo=&logoColor=black"/></a>
+<a href="https://goodjeon.github.io" target="_blank"><img src="https://img.shields.io/badge/goodjeon-ffffff?style=flat-square&logo=Jekyll&logoColor=black"/></a>
 ## E-mail 
-<a href="513ehdwnsl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=Gmail&logoColor=black"/></a>
+<a href="513ehdwnsl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/513ehdwnsl@gmail.com-ffffff?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodjeon&show_icons=true&theme=swift)
 
