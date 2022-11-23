@@ -5,9 +5,9 @@
 ## 📔 Blog : <https://goodjeon.github.io>
 ## 📬 E-mail : <513ehdwnsl@gmail.com>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodjeon&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodjeon&show_icons=true&theme=swift)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodjeon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodjeon&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
