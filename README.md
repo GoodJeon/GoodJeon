@@ -1,6 +1,9 @@
 ## 📔 Blog : <https://goodjeon.github.io>
 ## 📬 E-mail : <513ehdwnsl@gmail.com>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodjeon&show_icons=true&theme=buefy)
+
+
 <!--
 <a href="https://goodjeon.github.io/">
     <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/>
@@ -21,4 +24,5 @@
 <img src="https://img.shields.io/badge/Hadoop-66ccff?style=flat-square&logo=apache hadoop&logoColor=black"><img src="https://img.shields.io/badge/PySpark-e25a1c?style=flat-square&logo=apache spark&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white">
 
 <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"><img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white">
+
 
