@@ -20,7 +20,7 @@
 
 
 ## Blog  
-<a href="https://goodjeon.github.io" target="_blank"><img src="https://img.shields.io/badge/Jekyll-ffffff?style=flat-square&logo=Jekyll&logoColor=black"/></a>
+<a href="https://goodjeon.github.io" target="_blank"><img src="https://img.shields.io/badge/Jekyll-ffffff?style=flat-square&logo=&logoColor=black"/></a>
 ## E-mail 
 <a href="513ehdwnsl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ffffff?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
