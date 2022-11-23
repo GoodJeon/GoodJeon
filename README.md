@@ -2,8 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=GoodJeon&fontSize=90)
 
-## 📔 Blog : <https://goodjeon.github.io>
-## 📬 E-mail : <513ehdwnsl@gmail.com>
+## <a href="https://goodjeon.github.io" target="_blank"><img src="https://img.shields.io/badge/jekyll-ffffff?style=flat-square&logo=jekyll&logoColor=black"/></a>
+## <a href="513ehdwnsl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-ffffff?style=flat-square&logo=gmail&logoColor=black"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodjeon&show_icons=true&theme=swift)
 
