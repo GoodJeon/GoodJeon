@@ -18,7 +18,7 @@
 -->
 
 ## Stack
-<img src="https://img.shields.io/badge/Python-512BD4?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Swift-512BD4?style=flat-square&logo=swift&logoColor=black">
+<img src="https://img.shields.io/badge/Python-512BD4?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Swift-ffffff?style=flat-square&logo=swift&logoColor=black">
 
 <img src="https://img.shields.io/badge/MySQL-512BD4?style=flat-square&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Oracle-512BD4?style=flat-square&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-512BD4?style=flat-square&logo=MongoDB&logoColor=white">
 
