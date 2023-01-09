@@ -6,7 +6,7 @@
 
 ## Stack
 <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Swift-ffffff?style=flat-square&logo=swift&logoColor=black">
-<img src="https://img.shields.io/badge/Swift-ffffff?style=flat-square&logo=java&logoColor=black">
+<img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=java&logoColor=black">
 
 <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=mysql&logoColor=black"><img src="https://img.shields.io/badge/Oracle-ffffff?style=flat-square&logo=oracle&logoColor=black"><img src="https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=MongoDB&logoColor=black">
 
